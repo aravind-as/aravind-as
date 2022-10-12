@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science internships
-- 📫 How to reach me 
+- 📫 How to reach me ......
               LinkedIn : https://www.linkedin.com/in/aravind-a-s-01-/
               Kaggle   : https://www.kaggle.com/aravindas01
 
