@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aravind-as
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
+- 🌱 Data Science Student
 - 💞️ I’m looking to collaborate on Data Science internships
 - 📫 How to reach me ......
               LinkedIn : https://www.linkedin.com/in/aravind-a-s-01-/
