@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aravind-as
-- 👀 I’m interested in Data Science
+- 👀 Interested in Data Science and AI
 - 🌱 Data Science Student
 - 💞️ I’m looking to collaborate on Data Science internships
 - 📫 How to reach me ......
